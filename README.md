@@ -1,9 +1,5 @@
 Cryptoverse
 
-<img src='../images/1.png' alt=''>
-<img src='../images/2.png' alt=''>
-<img src='../images/3.png' alt=''>
-
 <a href="https://steady-gnome-46dd47.netlify.app/">DEPLOY DA APLICACAO</a>
 
 
